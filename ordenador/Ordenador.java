@@ -18,7 +18,7 @@ public class Ordenador {
      */
     public static void main(String[] args) {
         
-         ordenador ord=new ordenador();
+        
        Scanner sc=new Scanner(System.in);
        System.out.println("tipo de raton");
        String rato=sc.next();
@@ -32,9 +32,9 @@ public class Ordenador {
        int cpu1=sc.nextInt();
        
     
-    
+     miniordenador ord=new miniordenador(rato,pantalla,pantalla1,cpu,cpu1);
        ord.amosar();
-       System.out.println("el tipo de rato e"+ord.getRato()+"a pantalla e"+ord.getPantalla()+"o cpu e"+ord.getProcesador());
+     
      }  
        
       

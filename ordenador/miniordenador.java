@@ -48,7 +48,7 @@ public  miniordenador(){
           
           public void amosar(){
 
-        System.out.println(" "+rato+" "+pantalla+" " +procesador);
+          System.out.println("ednaskdnlsasdkn"+rato.getTipo()+"a pantalla e"+pantalla.getMarca()+"ertdgsgre"+pantalla.getPulgadas()+""+procesador.getMemoria()+""+procesador.getVelocidade());
  
 }
           
