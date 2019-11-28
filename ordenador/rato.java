@@ -1,18 +1,21 @@
-/*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
- */
+
 package ordenador;
 
 /**
  *
+I create a class that represents the computer mouse (pointing device)
  * @author vmontestovar
  */
 public class rato {
+    /**
+     * 
+
+     */
     private String tipo;
- 
-    
+ /**
+  *  attribute TIPO represents the physical characteristics of the mouse
+  */
+  
     public rato(){
 }
 public rato(String tipo){

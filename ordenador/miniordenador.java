@@ -1,16 +1,13 @@
-/*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
- */
+
 package ordenador;
 
 /**
  *
+This class miniordenador represents the union of the components of our computer
  * @author vmontestovar
  */
 public class miniordenador {
-    private rato rato;
+    private rato rato; //represents the computer mouse (pointing device)
     private pantalla pantalla;
     private cpu procesador;
     

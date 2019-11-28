@@ -7,6 +7,7 @@ package ordenador;
 
 /**
  *
+This CPU class represents the central processing unit of our PC
  * @author vmontestovar
  */
 public class cpu {
