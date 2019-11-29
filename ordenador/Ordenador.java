@@ -30,7 +30,7 @@ public class Ordenador {
     
      miniordenador ord=new miniordenador(rato,pantalla,pantalla1,cpu,cpu1);
        ord.amosar();
-     
+     //commit para el examen 3
      }  
        
       
