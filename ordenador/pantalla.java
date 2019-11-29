@@ -38,7 +38,7 @@ is the length of the screen
   
     public String getMarca(){
         return  marca;
-        
+        //commit para el examen
     }
    
     public float getPulgadas(){
