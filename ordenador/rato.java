@@ -28,6 +28,6 @@ public void setTipo(String tipo){
 }
 public String getTipo(){
     return tipo;
-    
+   //commit  
 }
 }
