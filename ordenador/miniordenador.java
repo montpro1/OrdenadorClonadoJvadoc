@@ -48,6 +48,6 @@ public  miniordenador(){
           System.out.println("ednaskdnlsasdkn"+rato.getTipo()+"a pantalla e"+pantalla.getMarca()+"ertdgsgre"+pantalla.getPulgadas()+""+procesador.getMemoria()+""+procesador.getVelocidade());
  
 }
-          
+    //commit del examen
 }
 
