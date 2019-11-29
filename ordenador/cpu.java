@@ -36,4 +36,5 @@ public class cpu {
     public int getMemoria(){
         return memoria;
     }
+    //commit para el examen
 }
